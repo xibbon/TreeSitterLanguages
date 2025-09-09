@@ -15,7 +15,9 @@ public extension TreeSitterIndentationScopes {
 	    "setget",
 	    "match_body",
 	    "set_body",
-	    "get_body"
+	    "get_body",
+	    "else_clause",
+	    "elif_clause"
             ],
 	    whitespaceDenotesBlocks: true)
     }
